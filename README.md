@@ -4,6 +4,10 @@ i tried to run it as a raw python file but just run it in vscode
 this is also my first time making a python gui thingy so
 let me search up how to upload an image rq
 
+add me on discord 
+kieran1234lol
+
+https://discord.gg/mpXqdxY27h
 
 ok i figured it out
 
