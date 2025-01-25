@@ -7,4 +7,4 @@ let me search up how to upload an image rq
 
 ok i figured it out
 
-![alt text](Screenshot 2025-01-25 160951.png)
+[image](Screenshot 2025-01-25 160951.png)
