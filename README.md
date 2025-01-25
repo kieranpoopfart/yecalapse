@@ -7,4 +7,4 @@ let me search up how to upload an image rq
 
 ok i figured it out
 
-[image](Screenshot 2025-01-25 160951.png)
+![Screenshot 2025-01-25 160951](https://github.com/user-attachments/assets/838addfc-41ad-4ec6-a5a8-cb235cf210e3)
